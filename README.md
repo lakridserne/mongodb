@@ -22,7 +22,7 @@ Explain architecture of sharding in mongoDB?
 3. ![architecture of sharding in MongoDB](https://docs.mongodb.com/manual/_images/sharded-cluster-production-architecture.bakedsvg.svg "architecture of sharding in MongoDB")
 source: https://docs.mongodb.com/manual/sharding/
 
-a and b: see script.js in Github repo
+a and b: see [script.js](https://github.com/lakridserne/mongodb/blob/master/script.js) in Github repo
 
 c
 
