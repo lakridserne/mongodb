@@ -1,7 +1,7 @@
 # MongoDB
 In this project we are doing some MongoDB project. We have loaded in some tweets to analyze using MongoDB.
 
-##Exercise:	Sharding	in	MongoDB	
+## Exercise:	Sharding	in	MongoDB	
 What is sharding in mongoDB?
 1. “Sharding is the process of storing data records across multiple machines and it is MongoDB's approach to meeting the demands of data growth. As the size of the data increases, a single machine may not be sufficient to store the data nor provide an acceptable read and write throughput.”
 Source: https://docs.mongodb.com/manual/sharding/
